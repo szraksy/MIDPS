@@ -1,1 +1,3 @@
-test here
+for a new branch
+git checkout -b [name of the new branch]
+git push origin [name of the new branch]
