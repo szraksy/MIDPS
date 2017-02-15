@@ -1,3 +1,4 @@
+git init
 creat new branch
 git checkout -b [name]
 git branch
